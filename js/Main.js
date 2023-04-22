@@ -44,7 +44,7 @@
 			createFireworks(x, y);
 		}
 		else {
-			createFireworks(x, y, ['小张', '小邓', '随性', '粗来玩', '哇酷哇酷', '吃不胖', '平安喜乐', '美丽大方', '快快乐乐']
+			createFireworks(x, y, ['小卢','哇酷酷','小张','出门带伞','多穿衣', '蒙的都对','加油', '美丽大方', '快快乐乐']
 			[Math.floor(Math.random() * 12)]);
 		}
 	}
